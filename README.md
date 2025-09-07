@@ -6,15 +6,6 @@
   - Presentation  
   - Report  
 
-- **UCL Internship**  
-  - Atomic magnetometer for electromagnetic induction imaging  
-  - Deliverables:  
-    - Presentations (Week 1–3, Week 3)  
-    - Report (10 pages)  
-    - Bibliography + Physics review  
-    - Summary (2 pages)  
-    - Poster  
-
 - **ESA Summer School**  
   - Presentation  
   - Report  
